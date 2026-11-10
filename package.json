@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "express": "*",
+    "lodash": "4.18.0",
     "pg": "*",
-    "pug": "*",
-    "lodash": "4.17.20"
+    "pug": "*"
   }
 }
