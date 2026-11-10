@@ -1,4 +1,4 @@
-name: Prod DigiCert Code Scan Action
+name: Prod DigiCert Code On-Demand Scan Action
 
 on:
   workflow_dispatch:
